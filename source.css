@@ -1,0 +1,25 @@
+/*!! DO NOT TOUCH IF YOU DO NOT KNOW WHAT YOU ARE DOING !!*/
+.cm-comment {
+    color: var(--CSS-Comments)
+  }
+  .cm-qualifier {
+    color: var(--CSS-Classes)
+  }
+  .cm-builtin {
+      color: var(--CSS-IDs)
+  }
+  .cm-property {
+    color: var(--CSS-Properties)
+  }
+  .cm-atom, .cm-number {
+    color: var(--CSS-Values)
+  }
+  .cm-string {
+    color: var(--CSS-Strings)
+  }
+  .cm-def {
+    color: var(--CSS-Rules)
+  }
+  .cm-callee {
+    color: var(--CSS-Vars)
+  }
