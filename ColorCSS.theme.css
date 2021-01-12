@@ -1,0 +1,20 @@
+/**
+  * @name ColorCSS
+  * @version 1.0
+  * @author Goob
+  * @authorLink https://github.com/1tsGooB
+  * @description Color your CSS with ease!
+*/
+
+@import url(https://github.com/1tsGooB/ColorCSS/source.css)
+
+:root {
+  --CSS-Classes: #D7BA7D; /* Change the colors of classes */ /* Default: #D7BA7D */
+  --CSS-IDs: #ffffff; /* Change the colors of IDs */ /* Default: #ffffff */
+  --CSS-Properties: #9CDCFE; /* Change the colors of properties */ /* Default: #9CDCFE */
+  --CSS-Values: #CE9178; /* Change the colors of values (Like the ones you are changing now) */ /* Default: #CE9178 */
+  --CSS-Comments: #6A9955; /* Change the color of comments*/ /* Default: #6A9955 */
+  --CSS-Vars: #DCDCAA; /* Change the color of variables */ /* Default: #DCDCAA */
+  --CSS-Strings: #CE9178; /* Change the color of strings */ /* Default: #CE9178 */
+  --CSS-Rules: #C584BB; /* Change the color of rules (For example, @import) */ /* Default: #C584BB */
+}
